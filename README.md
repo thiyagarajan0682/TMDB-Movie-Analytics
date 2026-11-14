@@ -40,4 +40,4 @@ This project analyzes TMDB movie data using Python, SQL, Pandas, Seaborn, Matplo
 python -m streamlit run app.py
 
 ## Author
-Prabaharan Thiyagarajan
+Thiyagarajan Prabaharan
